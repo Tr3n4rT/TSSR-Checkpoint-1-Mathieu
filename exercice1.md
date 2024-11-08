@@ -1,4 +1,4 @@
-![création-partition-cfdisk](https://github.com/Tr3n4rT/TSSR-Checkpoint-1-Mathieu/blob/main/IMAGE_CHECKPOINT/taille-type-nom-partitions.png)
+![vérification-montage.png](https://github.com/Tr3n4rT/TSSR-Checkpoint-1-Mathieu/blob/main/IMAGE_CHECKPOINT/vérification-montage.png)
 
 #Exercice 1 - GESTION DU STOCKAGE
 
@@ -26,6 +26,22 @@ __Formatage des partitions__
 __Désactivation de la SWAP sur /dev/sda5 et Activation de la SWAP sur /dev/sdb2__
 ![gestion-swapp](https://github.com/Tr3n4rT/TSSR-Checkpoint-1-Mathieu/blob/main/IMAGE_CHECKPOINT/gestion-swapp.png)
 
-
-
 ## 1.2 Montage
+
+__Récupération de l'UUID du disque /dev/sdb1 :__
+
+![recuperation-uuid](https://github.com/Tr3n4rT/TSSR-Checkpoint-1-Mathieu/blob/main/IMAGE_CHECKPOINT/recuperation-uuid.png)
+
+__Montage automatique au démarrage de la partition DATA :__\
+
+Création du dossier pour le point de montage : 
+`mkdir /mnt/data`
+
+Edtion du fichier fstab : 
+`vi /etc/fstab`
+
+![eddition-fstabl](https://github.com/Tr3n4rT/TSSR-Checkpoint-1-Mathieu/blob/main/IMAGE_CHECKPOINT/eddition-fstabl)
+
+Vérification des points de montage :
+
+![vérification-montage.png](https://github.com/Tr3n4rT/TSSR-Checkpoint-1-Mathieu/blob/main/IMAGE_CHECKPOINT/vérification-montage.png)
