@@ -23,9 +23,9 @@ __Formatage des partitions__
 
 
 ### Gestion du swap
-
 __Désactivation de la SWAP sur /dev/sda5 et Activation de la SWAP sur /dev/sdb2__
 ![gestion-swapp](https://github.com/Tr3n4rT/TSSR-Checkpoint-1-Mathieu/blob/main/IMAGE_CHECKPOINT/gestion-swapp.png)
+
 
 
 ## 1.2 Montage
