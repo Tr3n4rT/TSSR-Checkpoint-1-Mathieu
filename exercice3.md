@@ -1,4 +1,4 @@
-#Exercice 3 - REPONSES QUIZ
+# Exercice 3 - REPONSES QUIZ
 
 1. __Donne une ligne de commande bash qui permet de lister la liste des utilisateurs d'un système Linux :__\
 `cat /etc/passwd`
@@ -21,7 +21,7 @@ Malgré le prix élevé de 100$, il a dit \"Bonjour !\" au vendeur :
 - \"Même des tildes ~ ?\"
 - \"Evidemment !\""
 ```
-6. __Quelle commande te permet de mettre en avant le processus gedit ? :__
+6. __Quelle commande te permet de mettre en avant le processus gedit ? :__\
 `jobs -l | grep gedit`
 
 7. __Quels matériels réseaux sont sur la couche 2 et la couche 3 du modèle OSI ? Donne leurs spécificités :__\
@@ -32,15 +32,13 @@ Couche 3 :\
 Le Routeur : connecte un ou plusieurs réseaux entre eux\
  
 8. __Quels sont les équivalent PowerShell des commandes bash cd, cp, mkdir, ls :__ \
-cd : Set-Location
-cp : Copy-Item
-mkdir : Create-Item -Directory
-ls : Get-ChildItem
+cd : Set-Location\
+cp : Copy-Item\
+mkdir : Create-Item -Directory\
+ls : Get-ChildItem\
 
-9. __Dans la trame ethernet, qu'est-ce que le payload ? :__
+9. __Dans la trame ethernet, qu'est-ce que le payload ? :__\
 C'est la charge utile. Celle qui contient les données du paquet et qui ne servent pas à sa transmission.
 
-10. __Pourquoi les classes IP sont remplacées par le CIDR ?__
+10. __Pourquoi les classes IP sont remplacées par le CIDR ?__\
 Car l'utilisations des classes n'offrait plus assez d'adresses à utiliser.
-
-
