@@ -43,7 +43,7 @@ __Récupération de l'UUID du disque /dev/sdb1 :__
 
 ![recuperation-uuid](https://github.com/Tr3n4rT/TSSR-Checkpoint-1-Mathieu/blob/main/IMAGE_CHECKPOINT/recuperation-uuid.png)
 
-__Montage automatique au démarrage de la partition DATA :__\
+__Montage automatique au démarrage de la partition DATA :__
 
 Création du dossier pour le point de montage : 
 `mkdir /mnt/data`
@@ -51,7 +51,7 @@ Création du dossier pour le point de montage :
 Edtion du fichier fstab : 
 `vi /etc/fstab`
 
-![eddition-fstabl](https://github.com/Tr3n4rT/TSSR-Checkpoint-1-Mathieu/blob/main/IMAGE_CHECKPOINT/eddition-fstabl.png)
+![eddition-fstab](https://github.com/Tr3n4rT/TSSR-Checkpoint-1-Mathieu/blob/main/IMAGE_CHECKPOINT/eddition-fstab.png)
 
 __Verification des points de montage :__
 
