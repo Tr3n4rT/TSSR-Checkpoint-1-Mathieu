@@ -8,7 +8,7 @@
 ### Gestion du swap
 
 __Désactivation de la swapp sur /dev/sda5__
-![swapoff](/home/tr3n4rt/quest/checkpoint1/IMAGE_CHECKPOINT)
+![swapoff](https://github.com/Tr3n4rT/TSSR-Checkpoint-1-Mathieu/blob/main/IMAGE_CHECKPOINT/swappoff.png)
 ### Nom des partitions
 
 
