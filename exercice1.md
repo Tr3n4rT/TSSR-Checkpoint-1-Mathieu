@@ -51,7 +51,7 @@ Création du dossier pour le point de montage :
 Edtion du fichier fstab : 
 `vi /etc/fstab`
 
-![eddition-fstabl](https://github.com/Tr3n4rT/TSSR-Checkpoint-1-Mathieu/blob/main/IMAGE_CHECKPOINT/eddition-fstabl)
+![eddition-fstabl](https://github.com/Tr3n4rT/TSSR-Checkpoint-1-Mathieu/blob/main/IMAGE_CHECKPOINT/eddition-fstabl.png)
 
 __Verification des points de montage :__
 
